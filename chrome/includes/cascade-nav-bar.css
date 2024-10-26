@@ -12,6 +12,9 @@
 
 }
 
+#nav-bar #identity-box.extensionPage {
+  display: none !important;
+}
 
 #urlbar,
 #urlbar * {
